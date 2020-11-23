@@ -1,0 +1,19 @@
+{
+  "name": "unitedkingdommemories",
+  "version": "1.0.0",
+  "description": "UK Travel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humblefool1997/unitedkingdommemories.git"
+  },
+  "author": "Mohammed Saif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humblefool1997/unitedkingdommemories/issues"
+  },
+  "homepage": "https://github.com/humblefool1997/unitedkingdommemories#readme"
+}
